@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Yassine Hamza 👋  <br><br>I'm a software developer passionate about building applications, learning new technologies, and contributing to projects that solve real problems.  <br><br>🚀 Always exploring, experimenting, and improving my skills in software development.
+Hi, I'm Yassine Hamza 👋  
+
+I'm a software engineer with a master's degree, passionate about building applications, learning new technologies, and contributing to projects that solve real problems.  
+
+🚀 Always exploring, experimenting, and improving my skills in software development.
 
 
 ## 🌐 Socials:
